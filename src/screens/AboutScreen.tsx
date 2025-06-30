@@ -3,7 +3,7 @@ import React from 'react'
 function AboutScreen() {
   return (
     <div>
-      <h1 className='font-semibold text-red-600'>salam</h1>
+      <h1 className='font-semibold text-red-600'></h1>
     </div>
   )
 }

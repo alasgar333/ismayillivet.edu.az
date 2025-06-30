@@ -10,10 +10,10 @@ function Header() {
         <div className="container flex items-center justify-between">
      
                 <a href="">
-                    <img src="https://yt3.googleusercontent.com/ytc/AIdro_kFTPHzj1k1yVZGYXVljclQ1pGVAGBE3U155-74OMIYEA=s900-c-k-c0x00ffffff-no-rj" className="h-20" />
+                    <img src="img/loqo-idptm.svg" className="h-20" />
                 </a>
 
-                <p className='container text-right font-freehand drop-shadow-sm text-2xl text-primary'>Sumagallı Kənd Tam Orta Məktəbi</p>               
+                <p className='container text-right font-freehand drop-shadow-sm text-2xl text-primary'>İsmayıllı Dövlət Peşə Təhsil Mərkəzi</p>               
            
 
         </div>
@@ -101,7 +101,7 @@ function Header() {
                         <i className="fa-solid fa-bars"></i> 
                     </div>
 
-                    <div className="text-xs leading-3">Menu</div>
+                    <div className="text-xs leading-3">İDPTM</div>
                 </a>
 
                 <a href="#" className="block text-center text-gray-950 hover:text-primary transition relative">
@@ -109,7 +109,7 @@ function Header() {
                         <i className="fa-solid fa-magnifying-glass"></i>
                      </div>
 
-                    <div className="text-xs leading-3">Search</div>
+                    <div className="text-xs leading-3">Axtarış</div>
                 </a>
 
                 <a href="#" className="block text-center text-gray-950 hover:text-primary transition relative">
@@ -117,7 +117,7 @@ function Header() {
                         <i className="fa-solid fa-bars-progress"></i>
                     </div>
 
-                    <div className="text-xs leading-3">Category</div>
+                    <div className="text-xs leading-3">VetMarket</div>
                 </a>
 
                 <a href="#" className="block text-center text-gray-950 hover:text-primary transition relative">
@@ -126,7 +126,7 @@ function Header() {
                         <i className="fa-solid fa-cart-shopping"></i>
                     </div>
 
-                    <div className="text-xs leading-3">Cart</div>
+                    <div className="text-xs leading-3">Səbət</div>
                 </a>
 
                 

@@ -70,14 +70,14 @@ function  Slider() {
         <SwiperSlide>
          
          <section className='relative h-full overflow-hidden '>
-          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg ' style={{backgroundImage:'url("img/klublar.jpg")'}}>
+          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg ' style={{backgroundImage:'url("img/ustunluk/mezun.jpg")'}}>
           </div>
           <div className='absolute top-0 left-0 w-full h-full bg-opacity-70 bg-primary'></div>
           
           <div className='flex flex-col lg:flex-row justify-between items-center py-1 px-20 relative z-10'>
-            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Lorem, ipsum </h2>
+            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Məzun Günü </h2>
             
-            <p className='text-white mt-1 lg:mt-5'>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, fugiat? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, dignissimos.</p>
+            <p className='text-white mt-1 lg:mt-5'>Məzunlarımızı təbrik edirik. Uğurlar.</p>
             </div>
             
             <div className='lg:w-1/2'>
@@ -90,18 +90,18 @@ function  Slider() {
         <SwiperSlide>
          
          <section className='relative h-full overflow-hidden '>
-          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg ' style={{backgroundImage:'url("img/1.jpg")'}}>
+          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg ' style={{backgroundImage:'url("img/server.jpeg")'}}>
           </div>
           <div className='absolute top-0 left-0 w-full h-full bg-opacity-70 bg-primary'></div>
           
           <div className='flex flex-col lg:flex-row justify-between items-center py-1 px-20 relative z-10'>
-            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Lorem, ipsum </h2>
+            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>KŞŞİ</h2>
             
-            <p className='text-white mt-1 lg:mt-5'>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, fugiat? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, dignissimos.</p>
+            <p className='text-white mt-1 lg:mt-5'> Kompüter Şəbəkə İnzibatçılığı qrupu Basqal oteldə</p>
             </div>
             
             <div className='lg:w-1/2'>
-              <img src='img/kenan_harun1.png' alt="1280x720"  className='w-full h-auto sliderchild'/>
+              <img src='img/5.png' alt="1280x720"  className='w-full h-auto sliderchild'/>
             </div>
           </div>
          </section>
@@ -109,33 +109,14 @@ function  Slider() {
         <SwiperSlide>
          
          <section className='relative h-full overflow-hidden '>
-          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg' style={{backgroundImage:'url("img/1.jpg")'}}>
+          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg' style={{backgroundImage:'url("img/menzere.jpeg")'}}>
           </div>
           <div className='absolute top-0 left-0 w-full h-full bg-opacity-70 bg-primary'></div>
           
           <div className='flex flex-col lg:flex-row justify-between items-center py-1 px-20 relative z-10'>
-            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Lorem, ipsum </h2>
+            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Xatirə Şəkli </h2>
             
-            <p className='text-white mt-1 lg:mt-5'>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, fugiat? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, dignissimos.</p>
-            </div>
-            
-            <div className='lg:w-1/2'>
-              <img src='img/Cavad_Elmir1.png' alt=""  className='w-full h-auto sliderchild'/>
-            </div>
-          </div>
-         </section>
-        </SwiperSlide>
-        <SwiperSlide>
-         
-         <section className='relative h-full overflow-hidden '>
-          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg' style={{backgroundImage:'url("img/1.jpeg")'}}>
-          </div>
-          <div className='absolute top-0 left-0 w-full h-full bg-opacity-70 bg-primary'></div>
-          
-          <div className='flex flex-col lg:flex-row justify-between items-center py-1 px-20 relative z-10'>
-            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Lorem, ipsum </h2>
-            
-            <p className='text-white mt-1 lg:mt-5'>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, fugiat? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, dignissimos.</p>
+            <p className='text-white mt-1 lg:mt-5'>  Basqal oteldə infoturdan sonra xatirə şəkli</p>
             </div>
             
             <div className='lg:w-1/2'>
@@ -144,26 +125,9 @@ function  Slider() {
           </div>
          </section>
         </SwiperSlide>
+        
 
-        <SwiperSlide>
-         
-         <section className='relative h-full overflow-hidden '>
-          <div className='absolute top-0 left-0 w-full h-full bg-cover bg-center sliderbg' style={{backgroundImage:'url("img/1.jpg")'}}>
-          </div>
-          <div className='absolute top-0 left-0 w-full h-full bg-opacity-70 bg-primary'></div>
-          
-          <div className='flex flex-col lg:flex-row justify-between items-center py-1 px-20 relative z-10'>
-            <div className='lg:w-1/2'><h2 className=' text-3xl lg:text-6xl font-poppins font-semibold text-white'>Lorem, ipsum </h2>
-            
-            <p className='text-white mt-1 lg:mt-5'>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, fugiat? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, dignissimos.</p>
-            </div>
-            
-            <div className='lg:w-1/2'>
-              <img src='img/5.png' alt=""  className='w-full h-auto slideranime sliderchild'/>
-            </div>
-          </div>
-         </section>
-        </SwiperSlide>
+        
        
       </Swiper>
   </div>
