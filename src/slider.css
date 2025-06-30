@@ -1,0 +1,18 @@
+.swiper-pagination-bullet .swiper-pagination-bullet-active{
+    background-color: azure;
+    padding: 5px;
+}
+
+.swiper-pagination-bullet{
+    background-color: azure;
+    padding: 5px;
+}
+
+.swiper-button-prev{
+    color: azure;
+}
+
+.swiper-button-next{
+    color: azure;
+}
+ 
