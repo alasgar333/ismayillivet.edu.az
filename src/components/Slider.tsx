@@ -101,7 +101,7 @@ function  Slider() {
             </div>
             
             <div className='lg:w-1/2'>
-              <img src='img/5.png' alt="1280x720"  className='w-full h-auto sliderchild'/>
+              <img src='img/nulll1000x700.png' alt="1280x720"  className='w-full h-auto sliderchild'/>
             </div>
           </div>
          </section>
@@ -120,7 +120,7 @@ function  Slider() {
             </div>
             
             <div className='lg:w-1/2'>
-              <img src='img/5.png' alt=""  className='w-full h-auto sliderchild'/>
+              <img src='img/nulll1000x700.png' alt=""  className='w-full h-auto sliderchild'/>
             </div>
           </div>
          </section>
